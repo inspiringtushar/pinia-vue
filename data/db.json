@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Buy Some Milk!!",
+      "isFav": true
+    },
+    {
+      "id": 2,
+      "title": "Play cricket!!",
+      "isFav": false
+    },
+    {
+      "id": 4,
+      "title": "Office",
+      "isFav": true
+    },
+    {
+      "id": 5,
+      "title": "Market",
+      "isFav": false
+    }
+  ]
+}
